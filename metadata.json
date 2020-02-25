@@ -1,0 +1,7 @@
+{
+    "name": "Smash Ball",
+    "description": "Adds a randomly spawning Smash Ball that grants your character a Final Smash.",
+	"internalname": "smashBall",
+    "version": "0.1",
+    "author": "Uziskull",
+}
